@@ -106,7 +106,6 @@
       "action": "output",
       "args": {
         "outputName": "China.list",
-        "outputDir": "./publish",
         "wantedList": ["cn"]
       }
     },
