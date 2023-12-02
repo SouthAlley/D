@@ -102,23 +102,6 @@
       }
     },
     {
-      "type": "text",
-      "action": "output",
-      "args": {
-        "outputDir": "./publish",
-        "outputName": "China.txt",
-        "wantedList": ["cn"]
-      }
-    },
-    {
-      "type": "surgeRuleSet",
-      "action": "output",
-      "args": {
-        "outputDir": "./publish",
-        "wantedList": ["cn"],
-      }
-    },
-    {
       "type": "maxmindMMDB",
       "action": "output",
       "args": {
