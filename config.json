@@ -170,10 +170,6 @@
       "args": {
         "outputName": "GeoIP.mmdb"
       }
-    },
-    {
-      "type": "text",
-      "action": "output"
     }
   ]
 }
