@@ -115,8 +115,8 @@
       "action": "output",
       "args": {
         "outputDir": "./publish",
+        "outputName": "China.list",
         "wantedList": ["cn"],
-        "onlyIPType": "ipv4"
       }
     },
     {
