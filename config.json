@@ -105,6 +105,8 @@
       "type": "surgeRuleSet",
       "action": "output",
       "args": {
+        "outputDir": "./publish",
+        "oneFilePerList": true,
         "outputName": "China.list",
         "wantedList": ["cn"]
       }
