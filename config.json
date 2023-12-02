@@ -149,6 +149,25 @@
       "type": "maxmindMMDB",
       "action": "output",
       "args": {
+        "outputName": "Country.mmdb",
+        "overwriteList": [
+          "cn",
+          "private",
+          "cloudflare",
+          "cloudfront",
+          "facebook",
+          "fastly",
+          "google",
+          "netflix",
+          "telegram",
+          "twitter"
+        ]
+      }
+    },
+    {
+      "type": "maxmindMMDB",
+      "action": "output",
+      "args": {
         "outputName": "GeoIP.mmdb"
       }
     },
