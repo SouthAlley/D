@@ -102,20 +102,11 @@
       }
     },
     {
-      "type": "text",
-      "action": "output",
-      "args": {
-        "outputDir": "./publish",
-        "outputName": "China.txt",
-        "wantedList": ["cn"]
-      }
-    },
-    {
       "type": "surgeRuleSet",
       "action": "output",
       "args": {
-        "outputDir": "./publish",
         "outputName": "China.list",
+        "outputDir": "./publish",
         "wantedList": ["cn"]
       }
     },
