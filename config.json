@@ -102,6 +102,22 @@
       }
     },
     {
+      "type": "text",
+      "action": "output",
+      "args": {
+        "outputDir": "./publish",
+        "wantedList": ["cn"]
+      }
+    },
+    {
+      "type": "surgeRuleSet",
+      "action": "output",
+      "args": {
+        "wantedList": ["cn"],
+        "onlyIPType": "ipv4"
+      }
+    },
+    {
       "type": "maxmindMMDB",
       "action": "output",
       "args": {
