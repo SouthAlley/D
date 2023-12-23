@@ -39,7 +39,7 @@
       "action": "add",
       "args": {
         "name": "cn",
-        "uri": "https://raw.githubusercontent.com/metowolf/iplist/master/data/country/CN.txt",
+        "uri": "https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt",
         "onlyIPType": "ipv4"
       }
     },
