@@ -45,7 +45,7 @@
       "args": {
         "name": "cn",
         "mark": "纯真IP",
-        "uri": "https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt",
+        "uri": "https://raw.githubusercontent.com/metowolf/iplist/master/data/country/CN.txt",
         "onlyIPType": "ipv4"
       }
     },
